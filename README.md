@@ -107,12 +107,14 @@ I use personal projects to experiment with technologies, solve problems and deve
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=loisfh&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=loisfh&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
+    alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisfh&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=loisfh&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
+    alt="Most Used Languages"
   />
 </p>
 
